@@ -1,4 +1,4 @@
 FILE=/YanMinge/codey_ota_data/master/esp32/application.bin
 INTERVAL=0
 VERSION=23.01.006.004
-SIZE=1178448
+SIZE=1179328
