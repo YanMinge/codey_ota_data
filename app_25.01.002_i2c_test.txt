@@ -1,4 +1,4 @@
 FILE=/YanMinge/codey_ota_data/master/binFiles/app_25.01.002_i2c_test.bin
 INTERVAL=0
 VERSION=app_25.01.002
-SIZE=1701264
+SIZE=1693920
