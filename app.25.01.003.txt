@@ -1,4 +1,4 @@
 FILE=/YanMinge/codey_ota_data/master/binFiles/app.25.01.003.bin
 INTERVAL=0
 VERSION=25.01.003
-SIZE=1736720
+SIZE=1736768
