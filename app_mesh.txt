@@ -1,0 +1,4 @@
+FILE=/YanMinge/codey_ota_data/master/binFiles/app_mesh.bin
+INTERVAL=0
+VERSION=25.01.003
+SIZE=1742976
